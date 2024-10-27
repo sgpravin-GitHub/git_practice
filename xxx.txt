@@ -1,3 +1,2 @@
 this is 1st line added
 this is 2nd line added in master branch
-this is 3rd line added from branch
