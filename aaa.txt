@@ -1,2 +1,7 @@
 this is aaa.txt
 this is line 2
+<<<<<<< HEAD
+=======
+this is line 3
+this is line 4
+>>>>>>> 7f3f3a5 (added line-4 in aaa.txt)
