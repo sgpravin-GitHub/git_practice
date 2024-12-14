@@ -1,2 +1,2 @@
-# git_practice-
-this repo is to practice GIT
+this is readme file
+line2222
